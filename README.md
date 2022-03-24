@@ -1,2 +1,1 @@
-#APP
-This is the app.
+#App
